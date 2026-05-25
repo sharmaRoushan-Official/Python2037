@@ -59,6 +59,8 @@ Benefits:
 
 Example:
 
+calc.py
+------------------
 a = 10
 b = 20
 print(a+b) = 30
@@ -74,10 +76,13 @@ int main(){
 	b = 20;
 	var int c;
 	c = a+b;
-	printf("%d",c); 30
-
+	printf("%d",c); 
 	return 0
 };
+
+calc.exe  --> Object file
+
+file: machine code  --> 30
 ----------------------------------------------------------------------------------------------------
 
 Low-Level Language
@@ -103,7 +108,64 @@ High-level language are like English, Low-Level language are like binary signals
 ------------------------------------------------------------------------------------------------
 
 4). Compiler vs Interpreter
------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
+✅ Compiler
+-----------------
+
+A compiler translate the entire code at once into machine code.
+------------------------------------------------------------------------------------
+
+Example:
+
+C
+C++
+Java(Java Uses both compiler + Interpreter concept)
+
+
+Characteristics:
+
+>> Faster Execution
+>> Errors shown after full compilation
+-------------------------------------------------------------------------------------------
+
+
+✅ Interpreter
+
+------------------------
+
+An Interpreter translate the program line by line.
+
+Example:
+
+Python
+JavaScript
+Ruby
+Perl
+LISP
+ProLog
+etc.
+
+
+Characteristics
+
+>> Easy Debugging
+>> Slower than compiled languages
+>> Execute directly
+--------------------------------------------------------------------------------------------------
+
+Feature		| 	Compiler	| 	Interpreter	|
+---------------------------------------------------------------------------
+Translation	| Whole at once		| Line by Line
+--------------------------------------------------------------------------
+Execution Speed	|Fast			| Slower than compiler
+-------------------------------------------------------------------------------
+Error Display	| After Compilation	| Immediately
+-----------------------------------------------------------------------------
+Example		| C, C++		| Python, Ruby, JavaScript	
+-------------------------------------------------------------------------------------------
+
+
 
 
 
