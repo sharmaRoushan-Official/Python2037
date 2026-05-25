@@ -1,0 +1,119 @@
+Python
+--------------------------------------------------------
+1). What is Python?
+------------------------
+>> Python is high-level, general-purpose, interpreted programming language that is designed to be easy to read, easy to write and easy to learn.
+----------------------------------------------------------------------------------------
+
+Python supports multiple programming styles such as:
+ 	>> Procedural programming
+	>> Object-Oriented programming(OOP)
+	>> Functional Programming
+------------------------------------------------------------------------------------------
+
+Python is language that helps us to communicate with computers using simple English-like syntax.
+
+
+(101)2 - 100+1 --  9
+
+
+
+------------------------------------------------------------------------------------------
+
+				Number System
+					|
+---------------------------------------------------------------------------------
+ | 			|			|			|
+1.Decimal Number	2.Binary Number		3.Octal			4.HexaDecimal
+[0-9]-10		[0,1]-2			[0-7]-8			[0-9,a-f or A-F]-16
+---------------------------------------------------------------------------------------
+
+2). Who Created Python?
+
+>> Python was created by Guido Van Rossum in 1989 and officially released in 1991.
+
+----------------------------------------------------------------
+
+Python's name is inspired by the comedy show "Monty Python's Flying Circus", not the snake.
+-----------------------------------------------------------------------------------------
+
+
+3). High-Level VS low-Level Languages
+
+>> High-Level Language
+	A high-level language is closer to human languages and easier to understand.
+
+Example:
+
+Python
+C
+C++
+C#
+Java etc.
+
+Benefits:
+
+>> Easy Syntax  English
+>> Faster Development
+>> Easy Debugging --> Bug --> Debug
+
+Example:
+
+a = 10
+b = 20
+print(a+b) = 30
+---------------------------------------------------------------------------------
+calc.c 
+
+# include <stdio.h>
+
+int main(){
+	var int a;
+	a = 10;
+	var int b;
+	b = 20;
+	var int c;
+	c = a+b;
+	printf("%d",c); 30
+
+	return 0
+};
+----------------------------------------------------------------------------------------------------
+
+Low-Level Language
+--------------------------
+
+Low-Level languages are closer to machine and difficult for humans.
+
+-------------------------------------------------------------------------------
+Example:-
+
+Assembly Language
+
+Machine Code(0,1)
+---------------------------------------------------------------------------------
+
+Benefits:
+
+>> Very Fast Execution
+>> Direct Hardware control
+------------------------------------------------------------------------------------------
+
+High-level language are like English, Low-Level language are like binary signals.
+------------------------------------------------------------------------------------------------
+
+4). Compiler vs Interpreter
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
