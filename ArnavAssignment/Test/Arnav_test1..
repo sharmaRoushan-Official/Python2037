@@ -1,0 +1,117 @@
+Q1.)     Reverse a String Without Slicing:
+         >>"Hello World"
+
+Ans1-    str1="Hello World"
+         print(str1.len())
+
+Q2.)     Count words in a sentence:
+         >>"A quick brown fox jumped over the lazy brown dog"
+
+Ans2-    str1="A quick brown fox jumped over the lazy brown dog"
+         l1=list(str1)
+         print(l1.count())
+
+Q3.)     Remove Duplicate characters:
+         >>"Carrot"
+
+Ans3-    s={C,a,r,r,o,t}
+         print("".join(s))
+
+Q4.)     What is the difference between list and sets?
+
+Ans4-    Set:- A set is an unordered, collection of objects with no index assigned
+               It does not allow a duplicate value in it
+               It is represented by {}
+         List:-A list is a ordered, indexed collection of objects
+               It allows duplicates of other values in it
+               It is represented by []
+         
+Q5.)     Can sets contain lists? If yes How if no why?
+ 
+Ans5-    Sets cannot contain lists because they are not an allowed data type in a set.
+
+Q6.)     Why are sets Faster?
+
+Ans6-    Sets are faster as they take up lesser space in RAM.
+
+Q7.)     Difference Between remove() and discard()
+
+Ans7-    remove() returns the value that was removed from the collection of data whereas discard() does not return the data that was removed from the collection of data.
+
+Q8.)     How many methods to insert elements inside a list? Total method?
+
+Ans8-    There are a total of 3 methods to add a element in a list-
+         .append()
+         .insert()
+         By concatenation.
+
+Q9.)     How many methods to delete elements in the list? Total method?
+
+Ans9-    There are a total of 4 methods to remove a element from a list-
+         .pop()
+         .remove()
+         .discard()
+         .clear()
+
+Q10.)    How many operators in Python Write their name in explain?
+
+Ans10-   There are 3 types of operators in Python-
+         Arithmetic operators(+,-,*,/,//)
+         Logical operators (>,<,&,|,!)
+         Operational operators(AND,OR,NOT)
+
+Q11.)    Write the precedence rule of arithmetic in python?
+
+Ans11-   The precedence rule is the order of importance like the following:-
+         1. ()
+         2. //,/,*
+         3. +,-
+         4. >,<,&,|,!
+         5. AND,OR,NOT
+         6. :=
+Q12.)    How to sort the elements in list using slicing method?
+         >>[5,11,14,7,8,3,2,5,9]
+
+Ans12-   
+
+Q13.)    What is Dictionary?
+
+Ans13-   Dictionary is an ordered collection of keys and values and is represented by {}
+
+Q14.)    How many methods to create Dictionary?
+
+Ans14-   There are 3 methods to create Dictionary-
+         D={"name":"Arnav"}
+         D=dict([name=="Arnav])
+         D={}
+
+Q15.)    How many methods to access value in dictionary?
+
+Ans15-   There is only one method to access value in dictionary and that is by taking the key of that value.
+
+Q16.)    How many methods to delete element in a dictionary?
+
+Ans16-   There are 2 methods to delete elements in a dictionary-
+         .del()
+         .clear()
+
+Q17.)    How to perform mathematical operations in sets write method name?
+
+Ans17-   
+
+Q18.)    What is packing variable in tuple? Explain using example?
+
+Ans18-   
+
+Q19.)    What is unpacking variables in tuple? Explain using example?
+
+Ans19-   
+
+Q20.)    Difference between Sets and Dictionary?
+
+Ans20-   Set:- A set is an unordered, collection of objects with no index assigned
+               It does not allow a duplicate value in it
+         Dictionary:- It is an ordered collection of keys and its values
+                      It does not allow a duplicate key but allows a duplicate value
+
+         
