@@ -61,7 +61,7 @@ Example:
 
 calc.py
 ------------------
-a = 10
+a = 10   # "Arnav"
 b = 20
 print(a+b) = 30
 ---------------------------------------------------------------------------------
@@ -165,10 +165,264 @@ Error Display	| After Compilation	| Immediately
 Example		| C, C++		| Python, Ruby, JavaScript	
 -------------------------------------------------------------------------------------------
 
+5). General-Purpose
+
+>> What is General-Purpose Programming language?
+
+A general-purpose language is used to build any type of software.
+
+Python can be used:
+
+>> Website
+>> Mobile apps
+>> Data Science
+>> AI/ML
+>> Data analyst
+>> Deep Learning
+>> Machine Learning
+>> Data Scientist
+>> IoT
+>> MR
+>> VR
+>> Games
+>> Automation
+>> Androids app
+>> Desktop app
+>> etc.
+
+------------------------------------------------------------------
+C is also general-purpose, but Python is Preferred because it is simpler.
+
+----------------------------------------------------------------------------------------
+
+>> Programming
+-----------------
+Program
+------------
+6). What is program?
+-----------------------------
+A program is a set of instructions given to the computer to perform a specific task.
+-----------------------------------------------------------------------------------------
+
+GIGO ---> Garbage In Garbage Out.
+------------------------------------
+
+Program
+---------------
+
+A calculator Program:
+
+* Take Input
+* Perform Operation
+* Display Output
+---------------------------------
+
+step-1 (Take Input)
+a = 10
+b = 20
+
+setp-2 (Perform Operation)
+
+c = a+b  (a,b- operands, +:-Operator)
+
+step-3(Display Output)
+print(c)   :- Display output on the screen: -30
+
+---------------------------------------------------------------------------------------------
+
+>> 7).Why Python is Popular?
+---------------------------------------------
+1). Easy Syntax
+	>> Python syntax look like English language.
+
+if 10>5:  # True
+    print("Yes")
+
+2). Less Code(Shorter Programs)
+
+Java or C requires many lines, Python requires fewer.
+---------------------------
+
+3.Cross Platform
+---------------------
+Python works on:
+> Windows
+> Linux
+> macOS
+----------------------------------------------------------
+
+4. Huge Community Support 
+Python has millions of developers worldwide.
+
+----------------------------------------------------------------------------------------
+5. Large Libraries and Framework.
+----------------
+
+Python provides ready-made tools like
+
+> NumPy
+> Pandas
+> Matplotlib
+> TensorFlow
+> Django
+> Flask
+> CherryPy
+> etc.
+-------------------------------------------------------------------------------
+
+6. Supports Automations
+------------------------------------
+Python can automate repetitive tasks.
+
+Example:
+> Sending emails automatically
+> File renaming
+> Excel automation
+-------------------------------------------------------------------------------
+
+7. High Demand in Industry
+-------------------------------------------------
+
+Python is required in:
+
+>> IT Companies
+>> Startups
+>> Database companies
+-------------------------------------------------------------------------------------
 
 
+8. Features of Python
+
+Key features
+
+✅ 1. Simple and readable code.
+Python code is clan and understandable.
+
+✅ 2. Interpreted language
+No need to compile
+
+✅ 3. Dynamically typed
+No need to define datatype
+
+x = 10   :: integer
+x = "Arnav"   :: string
+
+✅ 4.OOPs [Object Oriented programming structure]
+Python supports OOP concept like
+
+class 
+object
+inheritance
+encapsulation
+polymorphism
+data abstraction
+
+✅ 5. Open-Source
+Python is free to use and distribute
 
 
+✅ 6. Portable
+Python code can run on different systems
+
+✅ 7. Large Standard Library
+
+Python comes with built-in Module like
+
+> os
+> math
+> datetime
+> random
+> etc
+--------------------------------------------------
+
+
+Python Course Content:
+-----------------------------------------------
+1). Python Basic
+2). Python Data types
+3). String Data type
+4). List data type
+5). Tuples data type
+6). Set Data type
+7). Dictionary data type
+8). Conditions in Python
+	>> if, else, elif
+9). Loops
+	>> Entry Controlled Loop
+		>>For and While
+	>> Exit Controlled Loop
+		>> No Loop
+10.). Function in Python
+	> In-Built Function
+	> User-Defined function
+11). Exceptional-handling
+	> try, except, else, finally, Assert, raise
+12). Class and Object
+	>4-Pillars of OOPS Concept
+		> 1. Inheritance
+			> 1. Single/Simple Inheritance
+			> 2. Multiple Inheritance
+			> 3. Multilevel Inheritance
+			> 4. Hierarchical Inheritance
+			> 5. Hybrid Inheritance
+		> 2. Encapsulation [Wrapping of data]
+			> 1. Public
+			> 2. Private
+			> 3. Protected
+		> 3. Polymorphism
+			> 1. Method Overriding
+			> 2. Method Overloading
+		> 4. Data Abstraction
+
+13. File Handling In Python
+	> 1. Reading Files in Python
+		> txt, pdf, xml, csv etc
+	> 2. Writing Files in Python
+		> txt, pdf, xml, csv etc
+
+14. Lambda function  [Anonymous Function]
+	1. Lambda with map
+	2. Lambda with filter
+	3. Lambda with reduce
+	4. Lambda with apply
+15. List Comprehension in Python
+16. Decorator in Python
+17. Generator in Python
+18. JSON [JavaScript Object Notation File]
+19. API [Application Programming Interface]
+20. Minimal Project 
+-----------------------------------------------------------------------------------------------------------
+
+✅ Python Installation(Windows).
+---------------------------------------
+Step 1: Download Python
+1. Open Browser
+2. Search Python official website
+3. Open: python.org
+4. click Downloads
+5. Download Latest version.
+
+-----------------------------------
+Step:2: Run Setup File
+
+1.Open downloaded .exe file
+2. IMPORTANT: Tick the checkbox
+	✅ Add Python to PATH
+3. Clin on Install Now
+
+📌 If you forget to tick "Add Python to PATH", Python will not run in CMD properly.
+
+---------------------------------------------------
+Step 3: Verify Installation
+1.Open Command Prompt(CMD)
+2. Type: python --version
+-----------------------------------
+Step 4 : check pip installation
+
+Pip is used to install libraries
+
+pip --version
+---------------------------------------------------------------------------
 
 
 
